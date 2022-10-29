@@ -1,0 +1,1 @@
+docker build -f ".\SakuraGenin\Dockerfile" -t sakura-genin .
